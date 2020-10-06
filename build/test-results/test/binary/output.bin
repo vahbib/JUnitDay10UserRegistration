@@ -1,0 +1,24 @@
+'Parameterized Email is: abc@gmail.com
++Parameterized Email is: abc-100@gmail.com
++Parameterized Email is: abc.100@gmail.com
+(Parameterized Email is: abc111@abc.com
+)Parameterized Email is: abc-100@abc.net
+.Parameterized Email is: abc.100@gmail.com.au
+#Parameterized Email is: abc@1.com
+	+Parameterized Email is: abc@gmail.com.com
+
++Parameterized Email is: abc+100@gmail.com
+Parameterized Email is: abc
+%Parameterized Email is: abc@.com.my
+(Parameterized Email is: abc123@gmail.a
+%Parameterized Email is: abc123@.com
+)Parameterized Email is: abc123@.com.com
+&Parameterized Email is: .abc@abc.com
+(Parameterized Email is: abc()*@abc.com
+&Parameterized Email is: .abc@!#$.com
++Parameterized Email is: abc..2002@abc.com
+&Parameterized Email is: abc.@abc.com
+)Parameterized Email is: abc@abc@abc.com
+&Parameterized Email is: .abc@abc.com
+(Parameterized Email is: abc@abc.com.1a
++Parameterized Email is: abc@abc.com.aa.au
